@@ -53,7 +53,7 @@
            &trans  &trans  &trans  &trans        &trans  &trans               &trans                                                     &trans  &trans         &trans  &trans         &trans  &trans  &trans
  &kp LEFT_CONTROL  &trans  &trans  &trans         &kp F  &trans               &trans  &trans  &trans                  &trans  &trans     &trans  &trans          &kp J  &trans         &trans  &trans  &trans
            &trans  &trans  &trans  &trans        &trans  &trans                               &trans                  &trans                     &trans         &trans  &trans         &trans   &none  &trans
-           &trans  &trans   &mo 1   &none  &kp LEFT_ALT                    &kp SPACE  &trans  &trans                  &trans  &trans  &kp ENTER          &kp RIGHT_ALT   &none  &kp RIGHT_GUI   &to 0  &trans
+            &none  &trans   &mo 2   &none  &kp LEFT_ALT                    &kp SPACE  &trans  &trans                  &trans  &trans  &kp ENTER          &kp RIGHT_ALT   &none  &kp RIGHT_GUI   &to 0   &none
             >;
         };
 
@@ -62,7 +62,7 @@
  &trans  &kp F1  &kp F2         &kp F3  &kp F4  &kp F5            &kp F11                                                  &kp F12          &kp F6           &kp F7                &kp F8                 &kp F9           &kp F10             &trans
  &trans  &trans  &trans         &trans  &trans  &trans             &trans                                                   &trans  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
  &trans  &trans  &trans  &kp BACKSPACE  &trans  &trans             &trans  &trans  &trans                  &trans  &trans   &trans        &kp LEFT         &kp DOWN                &kp UP              &kp RIGHT            &trans             &trans
- &trans  &trans  &trans         &trans  &trans  &trans                             &trans                  &trans                           &trans           &trans                &trans                 &trans  &macro_fat_arrow             &trans
+ &trans  &trans  &trans         &trans  &trans  &trans                             &trans                  &trans                           &trans           &trans     &macro_arrow_left     &macro_right_arrow  &macro_fat_arrow             &trans
  &trans  &trans  &trans         &trans  &trans                     &trans  &trans  &trans                  &trans  &trans   &trans                           &trans                &trans                 &trans            &trans             &trans
             >;
         };
